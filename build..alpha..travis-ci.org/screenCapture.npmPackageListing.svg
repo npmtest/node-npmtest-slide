@@ -1,15 +1,15 @@
 <svg height="190" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="190" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 12:32:07 +0000    11285 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 12:32:07 +0000      748 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 12:32:07 +0000     4013 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 12:32:07 +0000       38 bytes  index.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 12:32:07 +0000     1729 bytes  lib/async-map-ordered.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 12:32:07 +0000     1471 bytes  lib/async-map.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 12:32:07 +0000      382 bytes  lib/bind-actor.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 12:32:07 +0000      660 bytes  lib/chain.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 12:32:07 +0000      121 bytes  lib/slide.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 12:32:07 +0000     2123 bytes  package.json</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 12:33:08 +0000    11285 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 12:33:08 +0000      748 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 12:33:08 +0000     4013 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 12:33:08 +0000       38 bytes  index.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 12:33:08 +0000     1729 bytes  lib/async-map-ordered.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 12:33:08 +0000     1471 bytes  lib/async-map.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 12:33:08 +0000      382 bytes  lib/bind-actor.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 12:33:08 +0000      660 bytes  lib/chain.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 12:33:08 +0000      121 bytes  lib/slide.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 12:33:08 +0000     2123 bytes  package.json</tspan>
 </text>
 </svg>
