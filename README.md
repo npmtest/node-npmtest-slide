@@ -1,6 +1,6 @@
 # npmtest-slide
 
-#### test coverage for  [slide (v1.1.6)](https://github.com/isaacs/slide-flow-control)  [![npm package](https://img.shields.io/npm/v/npmtest-slide.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-slide) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-slide.svg)](https://travis-ci.org/npmtest/node-npmtest-slide)
+#### basic test coverage for  [slide (v1.1.6)](https://github.com/isaacs/slide-flow-control)  [![npm package](https://img.shields.io/npm/v/npmtest-slide.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-slide) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-slide.svg)](https://travis-ci.org/npmtest/node-npmtest-slide)
 
 #### A flow control lib small enough to fit on in a slide presentation. Derived live at Oak.JS
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-slide/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-slide/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-slide/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-slide/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-slide/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-slide/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-slide/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-slide/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-slide/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-slide/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-slide/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-slide/build/coverage.html/index.html)
 
@@ -75,7 +75,8 @@
         "url": "git://github.com/isaacs/slide-flow-control.git"
     },
     "scripts": {},
-    "version": "1.1.6"
+    "version": "1.1.6",
+    "bin": {}
 }
 ```
 
